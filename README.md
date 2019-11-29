@@ -1,4 +1,4 @@
-
+<a href="https://ibb.co/z57CZPg">
 <img src="https://i.ibb.co/qnWhpm8/electrum3.png" "="" style="height: 100px;margin-left: 185px;">
 </div>
 <div class="content" style="margin-left: 200px;" >
@@ -18,20 +18,7 @@ Dear Users, please don't lose your BTC!</p>
 			<a href="" class="button">Official website</a></p>
 </div>
 
-
 </body>
-<div >
-<table class="text , copyright">
-   <tr>
-    <td style="color:#dddddd;">You can get more information <a href="" style="color:blue; text-decoration:none; hover:color#77ccff;">here</a></td>
-    <td class="rightcol" style="padding-right: 198px; line-height:25px; color:#dddddd;"> Thanks you,<br>
-  The Electrum Team.</td>
-   </tr>
-  </table>
- </div>
- <div class="footer";>
- 
-</div>
 </div>
 </html>
 
